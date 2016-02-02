@@ -2,7 +2,7 @@
 
 ## First, Intall RVM
 
-```curl -sSL https://get.rvm.io | bash -s stable```
+```curl -sSL https://get.rvm.io | bash -s stable --rails```
 
 #### Load RVM into your shell sessions as a function
 
