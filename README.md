@@ -32,6 +32,6 @@ If you run into issues not being able to locate gems, set ```GEM_HOME="$HOME/.ge
 
 ## Resources
 
-http://guides.rubyonrails.org/getting_started.html
-https://rubygems.org/
-http://bundler.io/
+* http://guides.rubyonrails.org/getting_started.html
+* https://rubygems.org/
+* http://bundler.io/
