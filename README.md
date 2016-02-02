@@ -13,7 +13,13 @@
 #### Test - should return rvm is a function
 ```type rvm | head -n 1```
 
-## Intalling Rails
+#### Install Ruby 2.1.5
+
+```rvm install 2.1.5```
+
+```rvm use 2.1.5```
+
+#### Intalling Rails
 
 ```gem install rails```
 
