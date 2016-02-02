@@ -6,13 +6,9 @@
 
 #### Load RVM into your shell sessions as a function
 
-```source /etc/profile```
+```source ~/.rvm/scripts/rvm```
 
 ```rvm user gemsets```
-
-#### Reload shell configuration
-
-```source ~/.rvm/scripts/rvm```
 
 #### Test - should return rvm is a function
 ```type rvm | head -n 1```
